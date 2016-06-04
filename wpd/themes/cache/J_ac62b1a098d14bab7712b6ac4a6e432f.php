@@ -1,0 +1,1 @@
+<?php exit;?>a:3:{s:4:"time";i:1465029240;s:6:"expire";i:7000;s:4:"data";s:86:"sM4AOVdWfPE4DxkXGEs8VN1upSTKb2D7fYoJLbYH3NC7c5NnJeB4XjNA0vDcJSkxWir3gUFbF-Zz2t5nsZN6Lw";}
